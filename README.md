@@ -13,6 +13,10 @@ If you wish to execute the notebooks on your machine, you need to setup your Pyt
     * If you're on Mac or Linux, you could install `pyenv` as your Python version manager, and use `uv` only as a package manager. 
 2. Test your environment [here](./notebooks/src/welcome.ipynb).
 
+## Playground
+
+[Empty folder for local tests](./notebooks/src/playground/)
+
 ## Chapter One: Python Basics
 
 [View Chapter](./notebooks/src/chapter-1-python-basics/)
