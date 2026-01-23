@@ -181,6 +181,3 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
-
-notebooks/src/playground/*
-!notebooks/src/playground/playground.md
